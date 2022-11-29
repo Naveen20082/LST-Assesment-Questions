@@ -1,0 +1,9 @@
+[
+    {"id" : 1,"employee": "Naveen","gender": "male","age": "28","designation": "Frotend Developer","department":"FrontEnd" ,"date": "asd", "available": true},
+    {"id" : 2 ,"employee": "Praveen","gender": "aa","age": "23","designation": "Frotend Developer","department":"Backend" ,"date": "asd", "available": true},
+    {"id" : 3,"employee": "Abhishek","gender": "aa","age": "22","designation": "Frotend Developer","department": "UI/UX","date": "asd", "available": false},
+    {"id" : 4,"employee": "Aditya","gender": "male","age": "28","designation": "Frotend Developer","department": "Backend","date": "asd", "available": true},
+    {"id" : 5,"employee": "Payal","gender": "male","age": "28","designation": "Frotend Developer","department": "UI/UX","date": "asd", "available": true},
+    {"id" : 6,"employee": "Priyanka","gender": "male","age": "28","designation": "Frotend Developer","department": "FrontEnd","date": "asd", "available": false},
+    {"id" : 7,"employee": "Harpreet","gender": "male","age": "28","designation": "Frotend Developer","department":"Backend" ,"date": "asd", "available": true}
+]
